@@ -27,7 +27,8 @@ Estudando IA aplicada a QA para aumentar eficiência e confiabilidade dos testes
   <a href="https://www.linkedin.com/in/brunarcastro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
-  ![Snake animation](https://github.com/brcastrro/streamlit-qa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/brcastrro/brcastrro/output/github-contribution-grid-snake-dark.svg)
+
 
 
 </div>
